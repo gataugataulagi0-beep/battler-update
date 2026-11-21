@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "downloadUrl": "https://github.com/gataugataulagi0-beep/battler-update.git",
+  "mandatory": false,
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "changelog": [
+    "Initial release"
+  ]
+}
